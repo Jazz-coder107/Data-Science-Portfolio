@@ -1,32 +1,10 @@
 # Clone the proven job, not the app
 
-**Build a transparent ingredient-label scanner for one clearly defined audience. The default audience is parents checking kids' snacks and lunchbox food in Australia and the US. Keep a privacy-first quit-vaping tracker and an adult body-progress rater as runner-ups, and do not lead with a game.** Solo and tiny-team apps earning tens of thousands of US dollars a month do exist, but only a few have payment-verified numbers. They are AbMaxx (abs rater, approximately US$50k in 30 days), an anonymous Hyrox training app (approximately US$30k MRR), TrackAI (photo calorie tracker, approximately US$23k in 30 days) and Dailyglowup (approximately US$13k MRR), all of them RevenueCat-connected listings on TrustMRR. The famous cases (Cal AI, Umax, QUITTR, Prayer Lock) rest mainly on founder or press claims.
-
-The label scanner wins on fit rather than headline revenue:
-
-- **Proven demand:** Yuka's company-published US$11.9M of 2025 subscription revenue shows lasting, user-funded demand, and a tiny-team version (Goodie AI) shows approximately US$8k per 30 days, payment-verified.
-- **Buildable in a month:** the build is one AI call plus fixed scoring rules, which an AI app builder can ship within a month.
-- **Cheap to run:** AI costs are roughly US$0.33–2.35 per 1,000 scans.
-- **Content-ready:** the score itself is short-form video content.
-- **Lower risk:** ethical and App Store risk is far lower than for face or body raters.
-
-A game is a poor first bet. No public source shows a simple, AI-built mobile game from a solo developer clearing US$10k a month, and only 1.4% of new casual games passed US$100k a month in the first half of 2025.
-
-The approximately A$990 (≈US$680) budget covers both store accounts, a builder, AI credits and a small validation test. It buys validation, not growth. Every verified winner grew through paid creators or hundreds of short-form posts, so the real cost is roughly an hour a day of posting for six months or more. Only 4.6% of new subscription apps reach US$10k MRR within two years.
-
-These conclusions rest on research notes compiled mostly from search-result summaries, because most direct page fetches were blocked. The user's own Instagram feed could not be accessed. Every revenue figure is labelled by how well it is verified, and nothing here is legal or tax advice.
+**Build a transparent ingredient-label scanner for one clearly defined audience (by default, parents checking kids' snacks and lunchbox food in Australia and the US), keep a privacy-first quit-vaping tracker and an adult body-progress rater as runner-ups, and do not lead with a game.** Solo and tiny-team apps earning tens of thousands of US dollars a month do exist, but only a handful carry payment-verified numbers: AbMaxx (abs rater, approximately US$50k in 30 days), an anonymous Hyrox training app (approximately US$30k MRR), TrackAI (photo calorie tracker, approximately US$23k in 30 days) and Dailyglowup (approximately US$13k MRR), all RevenueCat-connected listings on TrustMRR, while the famous cases (Cal AI, Umax, QUITTR, Prayer Lock) rest mainly on founder or press claims. The label scanner wins on fit rather than headline revenue: Yuka's company-published US$11.9M of 2025 subscription revenue proves lasting demand, Goodie AI shows a tiny team at approximately US$8k per 30 days (payment-verified), the build is one AI call plus fixed scoring rules that an AI app builder can ship within a month, AI costs run roughly US$0.33–2.35 per 1,000 scans, the score itself is short-form content, and the ethical and App Store risk is far lower than for face or body raters. A game is a poor first bet, because no public source shows a simple, AI-built mobile game from a solo developer clearing US$10k a month, and only 1.4% of new casual games passed US$100k a month in the first half of 2025. The approximately A$990 (≈US$680) budget covers both store accounts, a builder, AI credits and a small validation test, but it buys validation rather than growth: every verified winner grew through paid creators or hundreds of short-form posts, so roughly an hour a day of posting for six months or more is the real cost, and only 4.6% of new subscription apps reach US$10k MRR within two years. The underlying research notes were compiled mostly from search-result summaries because direct page fetches were blocked, the user's own Instagram feed could not be accessed, every revenue figure below is labelled by verification level, and nothing here is legal or tax advice.
 
 ## Verified tens-of-thousands apps run on 1,700 to 5,000 subscribers
 
-**How the evidence was gathered, and what that means.** The research notes were compiled on 12 October 2026, almost entirely from web-search result summaries.
-
-- **Blocked:** direct page fetches to TrustMRR, the App Store, Google Play policy pages, Reddit, X, TechCrunch, most AI-builder pricing pages and the ATO were blocked, and search budgets ran out before some planned checks.
-- **Read in full:** Apple's developer and App Review pages, Anthropic's and Google Cloud's AI pricing pages, Expo and Supabase documentation (read from their GitHub source) and the REA repository.
-- **Not seen:** the user's own Instagram feed. The short-form formats described later come from public case studies, not from what the user is actually seeing.
-
-All figures were captured around 12 October 2026. Live pages may differ, so re-check any number before spending money on it.
-
-**Verification labels used throughout:**
+The research notes behind this report were compiled on 12 October 2026, almost entirely from web-search result summaries. Direct fetches to TrustMRR, the App Store, Google Play policy pages, Reddit, X, TechCrunch, most AI-builder pricing pages and the ATO were blocked, and search budgets ran out before some planned checks. The pages that were read in full were Apple's developer and App Review pages, Anthropic's and Google Cloud's AI pricing pages, Expo and Supabase documentation (read from their GitHub source) and the REA repository. **The user's own Instagram feed could not be accessed**, so the short-form formats discussed later come from public case studies rather than from what the user is actually seeing. Every figure was captured around 12 October 2026 and live pages may differ, so re-check any number before spending money on it. Currency conversions use 1 USD ≈ A$1.45; AUD/USD was about 0.69 in early October 2026, within a 2026 range of 0.6676–0.7260 ([exchange-rates.org](https://www.exchange-rates.org/exchange-rate-history/aud-usd-2026-10-01)). Every revenue figure carries one of five labels.
 
 | Label | What it means |
 |---|---|
@@ -35,8 +13,6 @@ All figures were captured around 12 October 2026. Live pages may differ, so re-c
 | **[V3] founder-reported** | The founder's own claim, made to press, on a podcast or on X. |
 | **[V4] third-party estimate** | Modelled estimates from Sensor Tower, Appfigures, AppMagic, AppGoblin or ScreensDesign. Not audited. |
 | **[V5] marketing claim** | Growth newsletters and vendors whose data source is not stated. |
-
-**Currency.** This report uses 1 USD ≈ A$1.45. AUD/USD was about 0.69 in early October 2026, within a 2026 range of 0.6676–0.7260 ([exchange-rates.org](https://www.exchange-rates.org/exchange-rate-history/aud-usd-2026-10-01)).
 
 **Revenue evidence for the reference apps in this report**
 
@@ -57,56 +33,15 @@ All figures were captured around 12 October 2026. Live pages may differ, so re-c
 | Fig (food scanner) | Unknown | "over $100K in MRR" from ≈12 slideshow accounts | — | V5, ≈410 days old | [Social Growth Engineers](https://www.socialgrowthengineers.com/how-water-and-food-health-scanners-hit-100m-views) |
 | Color Analysis AI and WhatColors (colour analysis) | Unknown, and Quiet Inc. | US$40k and US$60k MRR within ≈5–6 months | — | V5, ≈2 years old | [Shortimize](https://www.shortimize.com/blog/color-analysis-ai-how-a-tiktok-trend-turned-into-a-40k-monthly-cash-cow); [SGE](https://www.socialgrowthengineers.com/2-apps-that-reached-40000-mrr-by-riding-a-viral-tiktok-trend) |
 
-**Distribution, not technology, is the common thread.** Every scanner-type app above US$10k/month grew through one of two channels. The first is influencer or UGC (user-generated content) creators. The second is a network of 10–30+ faceless TikTok or Reels accounts:
+**Distribution, not technology, is the common thread.** Every scanner-type app above US$10k a month grew through paid influencer or user-generated-content (UGC) creators, or through networks of 10–30+ faceless TikTok and Reels accounts. Color Analysis AI reached 58M TikTok views across 20–30+ accounts ([Shortimize](https://www.shortimize.com/blog/color-analysis-ai-how-a-tiktok-trend-turned-into-a-40k-monthly-cash-cow)); Fig ran about 12 daily slideshow accounts and Oasis's green-screen "roast" format reached 50M+ views ([SGE](https://www.socialgrowthengineers.com/how-water-and-food-health-scanners-hit-100m-views)); and Cal AI's growth "can be largely attributed to paid acquisition, rather than word of mouth" ([Inc.](https://www.inc.com/ben-sherry/he-built-an-ai-app-in-high-school-made-40m-and-sold-to-myfitnesspal-now-hes-aiming-even-bigger/91307748)), even though its first version ran on existing OpenAI models rather than a proprietary one ([Starter Story](https://www.starterstory.com/cal-ai-breakdown)). AbMaxx's early paid-influencer deals left only 5–10% net margins until the founder traded equity for promotion by a major fitness creator ([Stork.ai](https://www.stork.ai/blog/the-55k-fitness-app-built-without-code)), and Prayer Lock's founder posted 40 times a day across 12 TikTok and Instagram accounts until one format worked ([gist.ly](https://gist.ly/youtube-summarizer/how-i-built-a-20kmonth-app-in-3-days-with-ai)). Instagram-specific evidence is thin: the only Instagram data point found was one sec's Instagram ads. The technology underneath these apps is a thin layer over a general-purpose vision model, which is exactly why a non-coder can build one and why App Review increasingly treats undifferentiated copies as spam.
 
-- **Color Analysis AI** reached 58M TikTok views across 20–30+ accounts ([Shortimize](https://www.shortimize.com/blog/color-analysis-ai-how-a-tiktok-trend-turned-into-a-40k-monthly-cash-cow)).
-- **Fig** ran about 12 slideshow accounts posting daily, and **Oasis**'s green-screen "roast" format reached 50M+ views ([SGE](https://www.socialgrowthengineers.com/how-water-and-food-health-scanners-hit-100m-views)).
-- **Cal AI**'s growth "can be largely attributed to paid acquisition, rather than word of mouth" ([Inc.](https://www.inc.com/ben-sherry/he-built-an-ai-app-in-high-school-made-40m-and-sold-to-myfitnesspal-now-hes-aiming-even-bigger/91307748)). Its first version ran on existing OpenAI models rather than a proprietary one ([Starter Story](https://www.starterstory.com/cal-ai-breakdown)).
-- **AbMaxx**'s early paid-influencer deals left only 5–10% net margins. The founder then traded equity for promotion by a major fitness creator ([Stork.ai](https://www.stork.ai/blog/the-55k-fitness-app-built-without-code)).
+**The subscriber maths shows what "tens of thousands" actually requires.** Dividing each verified listing's monthly revenue by its active subscribers gives about **US$4.0 per subscriber per month for TrackAI, US$3.9 for AbMaxx and US$2.1 per 30 days for Goodie AI**, against about US$18 for the Hyrox app. At US$3–4 per subscriber, **US$10k MRR needs roughly 2,500–3,300 active subscribers**. RevenueCat's 2026 median for hard-paywall apps is 10.7% of downloads paying by day 35, against 2.1% for freemium ([RevenueCat](https://www.revenuecat.com/state-of-subscription-apps)), so those subscribers take roughly 23,000–31,000 installs before counting churn. Churn is not small: AI apps keep only 21.1% of annual subscribers after a year, against 30.7% for non-AI apps, and see higher refund rates ([TechCrunch](https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows)), so the flow of new installs can never stop.
 
-The same playbook shows up beyond scanners. Prayer Lock's founder posted 40 times a day across 12 TikTok and Instagram accounts until one format worked ([gist.ly](https://gist.ly/youtube-summarizer/how-i-built-a-20kmonth-app-in-3-days-with-ai)). Instagram-specific evidence is thin: the only Instagram data point found was one sec's Instagram ads. The technology underneath these apps is a thin layer over a general-purpose AI model. That is why the build is feasible for a non-coder, and also why App Review increasingly treats undifferentiated copies as spam.
-
-**The subscriber maths shows what "tens of thousands" actually requires.** Dividing each verified listing's monthly revenue by its active subscribers gives revenue per subscriber:
-
-| App | Revenue per subscriber |
-|---|---|
-| TrackAI | ≈US$4.0 a month |
-| AbMaxx | ≈US$3.9 a month |
-| Goodie AI | ≈US$2.1 per 30 days |
-| Hyrox app | ≈US$18 a month |
-
-At US$3–4 per subscriber, **US$10k MRR needs roughly 2,500–3,300 active subscribers**. RevenueCat's 2026 median for hard-paywall apps is 10.7% of downloads paying by day 35, against 2.1% for freemium ([RevenueCat](https://www.revenuecat.com/state-of-subscription-apps)). At that rate, those subscribers take roughly 23,000–31,000 installs, before counting churn.
-
-Churn is not small. AI apps keep only 21.1% of subscribers after a year, against 30.7% for non-AI apps, and they also have higher refund rates ([TechCrunch](https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows)). The install flow must therefore never stop.
-
-**The base rates are sobering.**
-
-- RevenueCat's 2026 report (mostly 2025 data) found that **17% of new subscription apps reach US$1k MRR within two years and 4.6% reach US$10k**, down from 5.3% the year before. Games did best, at 9% reaching US$10k ([RevenueCat SOSA 2026](https://www.revenuecat.com/state-of-subscription-apps); [ContentGrip summary](https://www.contentgrip.com/subscription-app-market-2026-growth/)).
-- A 2026 article concludes that a few thousand dollars a month is a realistic good outcome for a first serious attempt ([The Bot Post](https://thebotpost.com/startups/indie-ai-apps-making-real-money)).
-
-**The sale prices are a warning about durability.** Several verified apps are listed for sale at low multiples of their annualised revenue:
-
-- **TrackAI:** US$120k against ≈US$246k annualised MRR, about 0.5x.
-- **Goodie AI:** US$100k against ≈US$97k annualised, about 1x.
-- **AbMaxx:** US$1M against ≈US$224k annualised MRR, about 4.5x, or about 1.7x on 30-day revenue.
-
-My reading is that the people running these apps treat them as short-lived cash flows that depend on constant marketing, not as durable assets.
-
-**Cal AI shows the ceiling, but it is no longer a solo-founder benchmark.** It is owned by MyFitnessPal, and reports conflict on whether its team is the "seven-person team" in the acquisition coverage or about 30 people ([Pulse 2.0](https://pulse2.com/myfitnesspal-acquires-cal-ai-to-expand-ai-powered-nutrition-tracking-portfolio)).
+**Base rates temper the headline cases.** RevenueCat's 2026 report, based mostly on 2025 data, found that **17% of new subscription apps reach US$1k MRR within two years and 4.6% reach US$10k**, down from 5.3% the year before, with games doing best at 9% ([RevenueCat SOSA 2026](https://www.revenuecat.com/state-of-subscription-apps); [ContentGrip summary](https://www.contentgrip.com/subscription-app-market-2026-growth/)). A 2026 article concludes that a few thousand dollars a month is a realistic good outcome for a first serious attempt ([The Bot Post](https://thebotpost.com/startups/indie-ai-apps-making-real-money)). The sale listings send the same message. TrackAI asks about 0.5x its annualised MRR, Goodie AI about 1x and AbMaxx about 4.5x MRR (1.7x on 30-day revenue), which reads as operators treating these apps as short-lived, marketing-dependent cash flows rather than durable assets (my interpretation). Cal AI shows the ceiling but no longer counts as a solo-founder benchmark: it belongs to MyFitnessPal, and reports conflict on whether its team was the "seven-person team" described at acquisition or about 30 people ([Pulse 2.0](https://pulse2.com/myfitnesspal-acquires-cal-ai-to-expand-ai-powered-nutrition-tracking-portfolio)).
 
 ## Ten clone candidates ranked against a one-month, A$1,000 build
 
-**How the ten ideas were ranked.** Each idea is scored against seven criteria:
-
-- **Proven revenue**, weighted by its verification label.
-- **Saturation** of the market.
-- **Evergreen demand**, meaning demand that lasts rather than following a trend.
-- **Build ease**, with an Expo/React Native-based AI builder in about a month.
-- **AI cost**, covering both AI-builder credits and per-use AI costs once the app is live.
-- **Ongoing effort.**
-- **App Store, legal and ethical risk.**
-
-The ranking is my judgement on the evidence in the notes, not a formula. AI cost estimates assume a photo resized to about 1,000×1,000 px, around 500 prompt tokens and around 300 output tokens. They use official per-token prices fetched on 12 October 2026: Claude Haiku 5.5 at US$0.10/US$0.50 per million tokens, Claude Sonnet 5.5 at US$2/US$10 ([Claude pricing](https://platform.claude.com/docs/en/about-claude/pricing)), and Gemini 3.1 Flash-Lite at US$0.25/US$1.50 ([Vertex AI pricing](https://cloud.google.com/vertex-ai/generative-ai/pricing)).
+Each idea was scored on seven criteria: proven revenue weighted by its verification label, market saturation, evergreen (lasting rather than trend-driven) demand, build ease with an Expo/React Native-based AI builder inside a month, AI cost (both builder credits and per-use AI costs once live), ongoing effort, and App Store, legal and ethical risk. The ranking is my judgement on the evidence in the notes, not a formula. AI cost estimates assume a photo resized to about 1,000×1,000 px plus roughly 500 prompt tokens and 300 output tokens, priced at official rates fetched on 12 October 2026: Claude Haiku 5.5 at US$0.10/US$0.50 and Claude Sonnet 5.5 at US$2/US$10 per million tokens ([Claude pricing](https://platform.claude.com/docs/en/about-claude/pricing)), and Gemini 3.1 Flash-Lite at US$0.25/US$1.50 ([Vertex AI pricing](https://cloud.google.com/vertex-ai/generative-ai/pricing)).
 
 | Rank | Idea | Proven reference apps (best label) | Saturation | Evergreen | Build ease (1 month) | AI cost once live | Store / ethics risk |
 |---|---|---|---|---|---|---|---|
@@ -154,7 +89,7 @@ The ranking is my judgement on the evidence in the notes, not a formula. AI cost
 | | |
 |---|---|
 | **Concept** | An 18+ app that scores progress in one body area (default: core and abs, or overall physique). It compares standardised photos against the user's own baseline, then generates a training routine and a progress timeline. It scores no faces. |
-| **Reference apps and evidence** | **AbMaxx:** US$50,109 in the last 30 days, MRR US$18,650, 4,829 subscribers, 4.7★ **[V1]**; it was temporarily removed from the App Store for 15 days in mid-2026, reason not stated ([TrustMRR](https://trustmrr.com/startup/abmaxx)). **Dailyglowup:** MRR ≈US$13k; claims its ads return 2–3x their cost **[V1 listing / V3 claim]** ([Marc Lou on X](https://x.com/marclou/status/2085587099508719831)). **Umax:** ≈US$500k a month in 2024 **[V3, Fortune could not verify]** ([Fortune](https://fortune.com/2024/07/01/looksmaxxing-apps-rate-teen-boys-faces-mental-health/)). **LooksMax AI:** ≈US$55k a month **[V4]** ([screensdesign](https://screensdesign.com/showcase/looksmax-ai)). |
+| **Reference apps and evidence** | **AbMaxx:** US$50,109 in the last 30 days, MRR US$18,650, 4,829 subscribers, 4.7★ **[V1]**; it was temporarily removed from the App Store for 15 days in mid-2026, reason not stated ([TrustMRR](https://trustmrr.com/startup/abmaxx)). **Dailyglowup:** MRR ≈US$13k; claims its ads return 2–3x their cost **[V1 listing / V3 claim]** ([Marc Lou on X](https://x.com/marclou/status/2085587099508719831)). **Umax:** ≈US$500k a month in 2024 **[V3, Fortune could not verify]** ([Fortune](https://fortune.com/2024/07/01/looksmaxxing-apps-rate-teen-boys-faces-mental-health/)). **LooksMax AI:** ≈US$55k a month on a third-party listing **[V4; the notes could not confirm which listing holds the figure]** ([screensdesign](https://screensdesign.com/showcase/looksmax-ai)). |
 | **Main competitors** | Umax, LooksMax AI, QOVES, Moggr, Mogged, Photoeval and FaceRate.ai ([BecomeTen comparison](https://becometen.com/compare)), plus AbMaxx and Dailyglowup. |
 | **What makes the references work** | Photo, then score, then a "potential" score, then a routine, then a re-scan. Scores are easy to share: Umax credits user videos that show its result screen in the background ([Fortune](https://fortune.com/2024/07/01/looksmaxxing-apps-rate-teen-boys-faces-mental-health/)). AbMaxx traded equity for promotion by a creator ([Stork.ai](https://www.stork.ai/blog/the-55k-fitness-app-built-without-code)). |
 | **Top user complaints** | Umax users report that the paywall appears only after they submit their photos, that the same photo gets a different number almost every time, that scans hang at "processing" after payment, and that a re-scan costs another US$3.99 ([RealWorldAppeal](https://realworldappeal.com/en/blog/umax-ai)). Its 49,251 reviews score 37.4/100 on JustUseApp ([JustUseApp](https://justuseapp.com/en/app/6471026798/umax-maximize-your-looks/reviews)). LooksMax AI is reportedly calibrated on Western norms ([HyScaler](https://hyscaler.com/insights/looksmax-ai-self-improvement-app-men/)). Psychologists say looksmaxxing apps worsen youth mental health ([Fortune](https://fortune.com/2024/07/01/looksmaxxing-apps-rate-teen-boys-faces-mental-health/)). |
@@ -261,7 +196,7 @@ The ranking is my judgement on the evidence in the notes, not a formula. AI cost
 | **Build difficulty (AI builder)** | **Medium.** Needs logging, goals and history. |
 | **Rough running costs** | Cents in AI; heavy spending on user acquisition. |
 
-**Ideas to avoid outright, and why:**
+Several tempting categories should be avoided outright, because the evidence shows either legal exposure, incumbents that a solo founder cannot outspend, or saturation that App Review penalises.
 
 | Avoid | Why |
 |---|---|
@@ -278,116 +213,41 @@ The ranking is my judgement on the evidence in the notes, not a formula. AI cost
 
 ### Top pick: the ingredient-label scanner
 
-Build idea #1. AbMaxx has the biggest verified number, not this idea, but the label scanner has the best balance of proof against risk for this founder:
+Build idea #1. AbMaxx has the biggest verified number, but the label scanner offers the best balance of proof against risk for this founder. Yuka shows **lasting, ad-free demand worth US$11.9M a year in subscriptions** ([Yuka](https://yuka.io/en/independence/)), and Goodie AI shows a tiny team reaching **≈US$8.1k per 30 days on 3,899 subscribers**, payment-verified ([TrustMRR](https://trustmrr.com/startup/goodie-ai)), so clearing US$10k with better marketing is a step up rather than a moonshot (my judgement). Scanning repeats on every shop, which retains better than one-off verdicts such as a face score or a colour season, and every result is a ready-made video that an Australian founder can film in local supermarkets each week. Scripts should still use US-neutral language, because subscription revenue in comparable apps concentrates in the US: Bible Chat earns more than 95% of its revenue from the US App Store ([Appfigures](https://appfigures.com/resources/insights/20250418/5-this-is-how-to-drive-demand-for-the-oldest-book-in-the-world)).
 
-- **Demand at the top is proven.** Yuka shows lasting demand worth **US$11.9M a year in subscriptions** with no advertising ([Yuka](https://yuka.io/en/independence/)).
-- **A tiny team can earn here.** Goodie AI shows that a tiny team can reach **≈US$8.1k per 30 days on 3,899 subscribers**, payment-verified ([TrustMRR](https://trustmrr.com/startup/goodie-ai)). Clearing US$10k with better marketing is therefore a step up, not a moonshot (my judgement).
-- **People come back.** Scanning repeats on every shop, which retains better than one-off verdicts such as a face score or a colour season.
-- **The result is the content.** Each result is a ready-made video, and an Australian founder can film in local supermarkets every week. Scripts should still use US-neutral language, because subscription revenue in comparable apps is concentrated in the US; Bible Chat earns >95% of its revenue from the US App Store ([Appfigures](https://appfigures.com/resources/insights/20250418/5-this-is-how-to-drive-demand-for-the-oldest-book-in-the-world)).
+At these prices, accuracy is worth paying for. Even Claude Sonnet 5.5, the priciest model costed for this idea, comes to about US$6.60 per 1,000 scans, which is trivial against a US$30-a-year subscription, so test two models on 50 real labels and choose on transcription accuracy rather than price. **The design choice that matters most is to let the AI read and let fixed code judge.** Consistent, explainable scoring answers the top complaint across scanner apps (the same input producing a different result), blunts the credibility attacks Yuka faces, and gives App Review the concrete "meaningfully different or improved experience" that guideline 4.3(b) demands in established categories ([App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)).
 
-**At these prices, pay for accuracy.** Even the strongest model in the table above costs only about US$6.60 per 1,000 scans, which is small against a US$30-a-year subscription. Test two models on 50 real labels and choose on how accurately they read the text, not on price.
+The risks are real. Yuka's core scan is free, with a cheap membership on top ([Glossy](https://www.glossy.co/beauty/yuka-beauty-wellness-product-scanning-app/)), so willingness to pay for a new scanner is unproven. Goodie AI's verified revenue sits *below* US$10k a month, and Fig's US$100k MRR is only a marketing claim. No Australian demand or competition data was found. Health wording must stay at "general food information", or the app drifts toward the regulated-healthcare territory that Apple expects companies rather than individuals to handle. And text on curved packets will sometimes be misread, so the app must ask the user to confirm rather than guess.
 
-**The design choice that matters most is to let the AI read and let fixed code judge.** Consistent, explainable scoring answers the top complaint across scanner apps: the same input getting a different result. It also answers the credibility attacks Yuka faces. And it gives App Review a concrete "meaningfully different or improved experience", which guideline 4.3(b) demands in established categories ([App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)).
-
-**The honest risks are real:**
-
-- **Free competition:** Yuka's core scan is free, with a cheap membership on top ([Glossy](https://www.glossy.co/beauty/yuka-beauty-wellness-product-scanning-app/)), so willingness to pay for yours is unproven.
-- **Thin verified revenue:** Goodie AI's verified revenue sits *below* US$10k a month, and Fig's US$100k MRR is a marketing claim.
-- **No Australian data:** no demand or competition data was found for Australia.
-- **Health wording:** health claims must stay at "general food information", or the app drifts toward the regulated-healthcare territory Apple expects companies, not individuals, to handle.
-- **Reading errors:** text on curved packets will sometimes be misread, so the app must ask the user to confirm rather than guess.
-
-**Pricing hypothesis to test:**
-
-- **Annual:** about US$29.99 with a 7-day free trial.
-- **Weekly:** US$3.99–4.99 with no trial.
-
-The trial length follows RevenueCat's data: trials of 17–32 days convert at a median of 42.5%, against 25.5% for trials of 4 days or less, and 55% of 3-day-trial cancellations happen on day zero ([RevenueCat](https://www.revenuecat.com/blog/growth/subscription-app-trends-benchmarks-2026)). Annual plans also carry 60.6% of Health & Fitness revenue ([Airbridge](https://www.airbridge.io/en/blog/weekly-vs-annual-subscription-app)).
-
-**Paywall placement:** onboarding quiz, then consent to AI processing, then a dismissible paywall, then 3 free scans, then a hard gate. This uses the metered model Apple encourages ([Apple subscriptions](https://developer.apple.com/app-store/subscriptions/)). It keeps some free sharing, which matters because hard paywalls "strengthen revenue, but weaken viral loops" ([Superwall](https://superwall.com/blog/how-stronger-built-a-usd600k-app-using-viral-on-demand-tiktok-strategy)). Then A/B test it against a stricter wall.
+**Start with an annual plan at about US$29.99 with a 7-day free trial and a weekly plan at US$3.99–4.99 with no trial, treated as hypotheses to test.** RevenueCat finds that trials of 17–32 days convert at a 42.5% median against 25.5% for trials of four days or less, and that 55% of three-day-trial cancellations happen on day zero ([RevenueCat](https://www.revenuecat.com/blog/growth/subscription-app-trends-benchmarks-2026)); annual plans also carry 60.6% of Health & Fitness revenue ([Airbridge](https://www.airbridge.io/en/blog/weekly-vs-annual-subscription-app)). Place the paywall after the onboarding quiz and the AI-consent screen, make it dismissible into three free scans, then hard-gate further scans. Apple encourages this kind of metered model ([Apple subscriptions](https://developer.apple.com/app-store/subscriptions/)), and it preserves some free sharing, which matters because hard paywalls "strengthen revenue, but weaken viral loops" ([Superwall](https://superwall.com/blog/how-stronger-built-a-usd600k-app-using-viral-on-demand-tiktok-strategy)). A/B test it against a stricter wall once traffic exists.
 
 ### Runner-up 1: the privacy-first quit-vaping tracker
 
-This is the right choice if minimising build effort and AI credits matters more than proven revenue:
-
-- **Easiest build:** no AI is needed, there is no server cost per user, and the app is a handful of screens.
-- **Lasting demand:** demand for quitting habits is evergreen and emotionally charged.
-- **A ready-made differentiator:** QUITTR's breach turns "no account, nothing leaves your phone" into a promise competitors cannot easily match ([404 Media](https://404media.co/viral-quittr-porn-addiction-app-exposed-the-masturbation-habits-of-hundreds-of-thousands-of-users)).
-
-It ranks second because its revenue evidence is weaker. QUITTR's figures range from US$50k to ≈US$500k a month depending on the source. I Am Sober's are model estimates that conflict. **No vaping-specific revenue evidence was gathered at all.** Validate the vice with keyword research before committing.
+Choose this if minimising build effort and AI credits matters more than proven revenue. It needs no AI, carries no per-user server cost and fits in a handful of screens. Demand for quitting habits is evergreen and emotionally charged, and QUITTR's breach turns "no account, nothing leaves your phone" into a promise competitors cannot easily match ([404 Media](https://404media.co/viral-quittr-porn-addiction-app-exposed-the-masturbation-habits-of-hundreds-of-thousands-of-users)). It ranks second because its revenue evidence is weaker: QUITTR's figures range from US$50k to roughly US$500k a month depending on the source, I Am Sober's are conflicting model estimates, and **no vaping-specific revenue evidence was gathered at all**, so validate the vice with keyword research before committing.
 
 ### Runner-up 2: the adult body-progress rater, with guardrails
 
-This idea has the strongest *verified* earnings of any in the report: AbMaxx at ≈US$50k in 30 days, and Dailyglowup at ≈US$13k MRR. It also reuses the scanner architecture almost one-for-one. It ranks third because of three risks:
-
-- **Ethics:** the looksmaxxing genre is criticised for harming young people ([Fortune](https://fortune.com/2024/07/01/looksmaxxing-apps-rate-teen-boys-faces-mental-health/)).
-- **App Store standing:** Apple restricts how camera and face data may be used, and AbMaxx itself was pulled from the App Store for 15 days in 2026 ([TrustMRR](https://trustmrr.com/startup/abmaxx)).
-- **Competition:** the space is crowded.
-
-The guardrails make it defensible: adults only, no faces, comparison only against the user's own baseline, consistent scoring, and photos kept on the device. If any body-image exposure feels wrong for your brand, swap in idea #4, colour analysis.
-
-**Note on running more than one app:** ideas #1, #3 and #4 share one pipeline: camera, then a server function, then structured data, then fixed scoring, then a paywall. A second app can reuse most of the first one's code. It must still be a genuinely different app, because Apple 4.3(a) bans multiple listings of the same app.
+This idea has the strongest *verified* earnings in the report, with AbMaxx at about US$50k in 30 days and Dailyglowup at about US$13k MRR, and it reuses the scanner architecture almost one-for-one. It ranks third because the looksmaxxing genre is criticised for harming young people ([Fortune](https://fortune.com/2024/07/01/looksmaxxing-apps-rate-teen-boys-faces-mental-health/)), Apple restricts how camera and face data can be used, AbMaxx itself was pulled from the App Store for 15 days in 2026 ([TrustMRR](https://trustmrr.com/startup/abmaxx)), and the field is crowded. Adults-only access, no faces, comparison only against the user's own baseline, consistent scoring and on-device photo storage make it defensible. If any body-image exposure feels wrong for the brand, swap in idea #4, colour analysis. Ideas #1, #3 and #4 share one pipeline (camera, server function, structured data, fixed scoring, paywall), so a second app can reuse most of the first one's code, provided it is genuinely distinct, because Apple 4.3(a) bans multiple listings of the same app.
 
 ### Is a game a good idea? Not as the first bet
 
-The evidence runs strongly against a game for these constraints:
-
-- **No solo proof:** the documented solo or tiny-team successes above US$10k a month are deep idle or text games (Magic Research, BitLife), premium hits that took years (Balatro), or **web** games with an existing audience (fly.pieter.com). **No App Store or Google Play game publicly described as "vibe-coded" (built by prompting AI) reported meaningful revenue** ([Indie Hackers](https://www.indiehackers.com/post/tech/vibe-coding-examples-4-revenue-generating-apps-built-with-ai-2NUIOp80SUWuPmmfKoS9)).
-- **Bad base rates:** only **1.4% of new casual titles passed US$100k a month in H1 2025** ([AppMagic](https://appmagic.rocks/research/casual-report-h1-2025)).
-- **Brutal retention:** the median game keeps **≈22% of players on day 1, under 4% on day 7 and 0.7–0.8% on day 30** ([GameGrowthAdvisor](https://gamegrowthadvisor.com/blog/2026-03-17-mobile-game-kpis-benchmarks-2026/)).
-- **Ads need volume:** ads-only games need thousands of daily players this budget cannot buy.
-- **No proof for "AI-made viral game" content:** no case was found of a game marketed as AI-made, spread mainly through Instagram or TikTok animations, becoming a verified commercial success.
-
-The steelman for games is RevenueCat's finding that games had the highest share of new subscription apps reaching US$10k MRR (9%) ([RevenueCat SOSA 2026](https://www.revenuecat.com/state-of-subscription-apps)). But that figure covers subscription games of every size, not one-month AI builds.
-
-If the founder still wants a game, idea #7 is the most buildable: a daily puzzle with a share card and a mix of rewarded ads, a "remove ads" purchase and an archive subscription. Treat it as a way to build an audience, not as a revenue engine.
+The evidence runs strongly against a game under these constraints. The documented solo or tiny-team successes above US$10k a month are deep idle or text games (Magic Research, BitLife), premium hits that took years (Balatro), or web games launched to an existing audience (fly.pieter.com), and **no App Store or Google Play game publicly described as "vibe-coded" (built by prompting AI) reported meaningful revenue** ([Indie Hackers](https://www.indiehackers.com/post/tech/vibe-coding-examples-4-revenue-generating-apps-built-with-ai-2NUIOp80SUWuPmmfKoS9)). Only **1.4% of new casual titles passed US$100k a month in H1 2025** ([AppMagic](https://appmagic.rocks/research/casual-report-h1-2025)), and the median game keeps about 22% of players on day 1, under 4% on day 7 and 0.7–0.8% on day 30 ([GameGrowthAdvisor](https://gamegrowthadvisor.com/blog/2026-03-17-mobile-game-kpis-benchmarks-2026/)). Ads-only games need thousands of daily players that this budget cannot buy, and no case was found of a game marketed as AI-made and spread mainly through Instagram or TikTok animations becoming a verified commercial success. The steelman is RevenueCat's finding that games had the highest share of new subscription apps reaching US$10k MRR, at 9% ([RevenueCat SOSA 2026](https://www.revenuecat.com/state-of-subscription-apps)), but that figure covers subscription games of every size, not one-month AI builds. A founder set on a game should build idea #7, a daily puzzle with a share card and a mix of rewarded ads, a "remove ads" purchase and an archive subscription, and treat it as an audience-building project rather than a revenue engine.
 
 ### Decision rules for days 60 to 90
 
-Judge progress against the published medians:
-
-- **Formats:** if no format produces steady installs after about 60 days and about 100 posts, the problem is the format. Jack Friks reports needing 30–100 posts to find a winning format ([Sliplane summary](https://onepage-research.sliplane.app/articles/youtube.com/yt-qeY283nBhIA)).
-- **Conversion:** if fewer than about 5% of downloads become paying users by day 35, against the 10.7% hard-paywall median, fix onboarding and the paywall before buying traffic.
-- **Trials:** compare trial-to-paid conversion with the Health & Fitness median of 39.9% ([Athletech News](https://athletechnews.com/fitness-apps-monetizable-winner-take-all-or-most/)).
-- **Day 90:** if MRR is not trending upward and conversion is far below these medians, move to a runner-up on the same codebase rather than adding features.
+Judge progress against published medians. If no format produces steady installs after about 60 days and about 100 posts, the problem is the format; Jack Friks reports needing 30–100 posts to find a winner ([Sliplane summary](https://onepage-research.sliplane.app/articles/youtube.com/yt-qeY283nBhIA)). If fewer than about 5% of downloads become paying users by day 35, against the 10.7% hard-paywall median, fix onboarding and the paywall before buying any traffic, and compare trial-to-paid conversion with the Health & Fitness median of 39.9% ([Athletech News](https://athletechnews.com/fitness-apps-monetizable-winner-take-all-or-most/)). If MRR is not trending upward by day 90 and conversion sits far below these medians, move to a runner-up on the same codebase rather than adding features.
 
 ## Tear down competitors from the outside, never through the binary
 
 ### Copy the job and the pattern, never the expression
 
-**What the law protects, and what it doesn't:**
+Australian law protects expression, not ideas: "ideas, concepts or techniques cannot be protected by copyright", and infringement requires substantial reproduction of the original author's work, while passing off and the Australian Consumer Law's ban on misleading conduct stop rivals adopting a confusingly similar name or get-up ([Law Handbook SA](https://lawhandbook.sa.gov.au/ch11s13.php)). The exceptions that permit reverse engineering are narrow. Section 47D allows reproducing a program only to obtain information needed to make something that *interoperates* with it, and the Federal Court called it a "very limited exception" ([ALRC Report 122](https://www.alrc.gov.au/publication/copyright-and-the-digital-economy-alrc-report-122/17-computer-programs-and-back-ups/exceptions-for-computer-programs/)). The anti-circumvention exception in s116AN(3) requires interoperability to be the *sole purpose* ([AustLII s116AN](https://20.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s116an.html)), and in 2024 the Federal Court found liability for supplying a circumvention tool used to modify a game ([Take-Two v Anderson (No 2)](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca1459)). **Building a competing substitute is not interoperability, so do not assume these exceptions authorise decompiling a rival [confirm with an Australian IP lawyer].** In the US, a court enforced a shrink-wrap ban on reverse engineering even where it would otherwise have been fair use ([Bowers v. Baystate](https://en.wikipedia.org/wiki/Bowers_v._Baystate_Technologies,_Inc.)), and Apple's standard licence prohibits decompiling apps (search summary; check the wording) ([Apple EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)). *Tetris v. Xio* adds that a clone's look can be protected even when its rules are free to copy ([Loeb & Loeb](https://www.loeb.com/en/insights/publications/2012/06/tetris-holding-llc-v-xio-interactive-inc)).
 
-- **Ideas are free.** "Ideas, concepts or techniques cannot be protected by copyright" under Australian law. Infringement requires substantially reproducing the original author's expression ([Law Handbook SA](https://lawhandbook.sa.gov.au/ch11s13.php)).
-- **Names and looks are not.** Passing off and the Australian Consumer Law's ban on misleading conduct stop rivals using a confusingly similar name or product appearance ([Law Handbook SA](https://lawhandbook.sa.gov.au/ch11s13.php)).
-- **The reverse-engineering exception is narrow.** Australia's decompilation exception (s47D) covers reproducing a program only to make something that *works with* it. The Federal Court called it a "very limited exception" ([ALRC Report 122](https://www.alrc.gov.au/publication/copyright-and-the-digital-economy-alrc-report-122/17-computer-programs-and-back-ups/exceptions-for-computer-programs/)).
-- **The anti-circumvention exception is also narrow.** It requires interoperability to be the *sole purpose* ([AustLII s116AN](https://20.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s116an.html)). In 2024 the Federal Court found liability for supplying a circumvention tool for a game ([Take-Two v Anderson (No 2)](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca1459)).
-- **Building a competing substitute is not "interoperability".** Do not assume these exceptions authorise decompiling a competitor to build a rival. **[Confirm with an Australian IP lawyer.]**
-- **US contracts can bite.** A US court enforced a shrink-wrap ban on reverse engineering even where it would otherwise be fair use ([Bowers v. Baystate](https://en.wikipedia.org/wiki/Bowers_v._Baystate_Technologies,_Inc.)). Apple's standard licence prohibits decompiling apps (search summary; check the wording) ([Apple EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)).
-- **A clone's "look" can be protected even when its rules are free.** *Tetris v. Xio* protected Tetris's visual expression and trade dress while leaving its game mechanics free to copy ([Loeb & Loeb](https://www.loeb.com/en/insights/publications/2012/06/tetris-holding-llc-v-xio-interactive-inc)).
-
-**What the stores enforce:**
-
-- **Apple.** Guideline 4.1 says "don't simply copy the latest popular app", and 4.1(c) bans using another developer's icon, brand or product name. Guideline 5.2.1 bars "copycat representations, names, or metadata" ([App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)).
-- **Google Play.** Its Impersonation policy prohibits implying any connection to another app or developer ([Google Play Console Help](https://support.google.com/googleplay/android-developer/answer/9888374)).
-- **Enforcement is real.** Apple pulled Wordle clones that used the Wordle name in January 2022, while look-alikes under other names stayed ([Macworld](https://www.macworld.com/article/678335/wordle-clones-are-removed-from-the-app-store.html)).
-- **Later entrants win by changing the core experience.** Calm overtook Headspace with sleep stories, and Cal AI beat incumbents with photo-first logging ([Sensor Tower](https://sensortower.com/blog/calm-revenue-q1-2019)).
-
-**In practice:**
-
-- **Reuse freely:** the problem the app solves, the feature set, the general flow (quiz, then personalised plan, then paywall), the pricing *structure* and the technology stack.
-- **Never reuse:** competitors' code, art, icons, mascots, sounds, onboarding questions, marketing copy, distinctive colour and layout combinations, names, or screenshots.
+The stores enforce the same line. Apple's guideline 4.1 says "don't simply copy the latest popular app", 4.1(c) bans using another developer's icon, brand or product name, and 5.2.1 bars "copycat representations, names, or metadata" ([App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)); Google Play's Impersonation policy prohibits implying a connection to another app or developer ([Google Play Console Help](https://support.google.com/googleplay/android-developer/answer/9888374)). Apple pulled Wordle clones that used the Wordle name in January 2022, while differently named look-alikes stayed ([Macworld](https://www.macworld.com/article/678335/wordle-clones-are-removed-from-the-app-store.html)), and the later entrants that won (Calm over Headspace, Cal AI over manual loggers) changed the core experience rather than re-skinning the incumbent ([Sensor Tower](https://sensortower.com/blog/calm-revenue-q1-2019)). In practice, reuse the problem solved, the feature set, the general flow (quiz, personalised plan, paywall), the pricing *structure* and the technology stack. Never reuse a competitor's code, art, icons, mascots, sounds, onboarding questions, marketing copy, distinctive colour-and-layout combinations, name or screenshots.
 
 ### The outside-in teardown loop
 
-**The core loop needs no decompiling at all:**
-
-1. Install each competitor as a normal user on a clean device and screen-record the onboarding, paywall, first session and cancellation, cancelling any trial in time.
-2. Read its App Store privacy label. Apple requires apps to disclose data collected by the "third-party partners whose code you integrate", meaning analytics tools, ad networks and SDKs (third-party code libraries) ([Apple: App privacy details](https://developer.apple.com/app-store/app-privacy-details/)).
-3. Read its privacy policy, which often names its AI vendors.
-4. Mine its 1–3★ reviews.
-5. Pull its ads from Meta's Ad Library and TikTok's Creative Center. TikTok's Creative Center is a curated sample that advertisers opt into, not a full list ([Moda](https://moda.app/blog/tiktok-creative-center)).
-
-**Low-cost helpers:**
+Almost everything a founder needs is visible without touching a competitor's code. Install each competitor as a normal user on a clean device and screen-record onboarding, the paywall, the first session and cancellation, cancelling any trial in time. Read the App Store privacy label, which must disclose data collected by "third-party partners whose code you integrate", meaning analytics tools, ad networks and SDKs (third-party code libraries) ([Apple: App privacy details](https://developer.apple.com/app-store/app-privacy-details/)). Read the privacy policy, which often names AI vendors, mine the 1–3★ reviews, and pull current ads from Meta's Ad Library and TikTok's Creative Center, remembering that the latter is an opt-in curated sample rather than a full list ([Moda](https://moda.app/blog/tiktok-creative-center)). A few low-cost tools fill the remaining gaps.
 
 | Tool | What it gives you | Cost (search summaries; verify) |
 |---|---|---|
@@ -395,9 +255,7 @@ Judge progress against the published medians:
 | Apify review-mining tools | Classify App Store and Google Play reviews into bugs, feature requests and sentiment | US$50 per 1,000 app analyses, or from US$1 per 1,000 reviews ([Apify](https://apify.com/automationnation/app-store-review-miner)) |
 | Mobbin and ScreensDesign | Screen and flow libraries for historical onboarding and paywall variants | Unverified ([Toolworthy](https://www.toolworthy.ai/blog/mobbin-alternatives)) |
 
-**Keep recordings internal.** Write requirements in your own words, then design from that written spec. This is clean-room practice, which keeps your design independent of theirs. Never trace competitor screenshots.
-
-**Per-competitor teardown template** (one sheet per app):
+Keep every recording internal, write requirements in your own words, then design from that written spec. This clean-room practice keeps your design independent of theirs, so never trace competitor screenshots. Fill in one sheet per competitor using the template below.
 
 | Section | Record |
 |---|---|
@@ -411,27 +269,11 @@ Judge progress against the published medians:
 | H. Acquisition | Active Meta ads (count, formats, hooks, offers), TikTok Top Ads trends, influencer and UGC patterns |
 | I. Risk notes | Their trademarks, distinctive visual identity, mascots and any patents mentioned: things to steer clear of |
 
-**Turning the teardown into a feature list:**
-
-1. Build a matrix of competitors by template row.
-2. Mark features present in three or more competitors as table stakes.
-3. Rank unmet needs by how often and how badly they appear in reviews.
-4. Write each candidate feature as a one-line outcome in your own words.
-5. Pick one sharp wedge and keep everything else at table stakes.
-6. Run a store-safety check before any design work: clear the name and icon through IP Australia and USPTO trade mark searches **[IP lawyer]**, and state your differentiator in the first screenshot and in the App Review notes.
+Turn the teardown into a feature list in one pass. Build a matrix of competitors against the template rows, treat anything present in three or more competitors as table stakes, rank unmet needs by how often and how badly they appear in reviews, and write each candidate feature as a one-line outcome in your own words. Pick one sharp wedge and keep everything else at table stakes. Before any design work, clear the name and icon through IP Australia and USPTO trade mark searches **[IP lawyer]**, and state the differentiator in the first screenshot and in the App Review notes.
 
 ### REA: useful for fingerprints, off-limits for reconstruction
 
-**What REA is.** REA ("Reverse Engineer Anything", [github.com/morluto/rea](https://github.com/morluto/rea)) is an MIT-licensed tool that runs as an MCP server, a plugin that lets an AI coding agent such as Claude Code or Cursor call it. It also has a command-line interface. It can inspect compiled programs, Android APK files and devices, JavaScript and Electron apps, websites, and saved network captures.
-
-**Its pitch is exactly the risky part.** It says: "See a feature in an app that you want in your own product? Ask your agent to investigate it with REA… and build a version for your project." Its disclaimer puts all responsibility on you: "You are responsible for obtaining any required authorization and complying with applicable laws" ([REA README](https://github.com/morluto/rea/blob/main/README.md)).
-
-**Two facts narrow its usefulness here:**
-
-- **It cannot open App Store binaries.** REA documents no way to decrypt FairPlay, Apple's encryption on App Store apps. Its Apple analysis is an "execution-free" inventory of an app bundle you already have ([REA Apple doc](https://github.com/morluto/rea/blob/main/docs/apple-application-analysis.md)).
-- **It cannot see competitors' encrypted traffic through normal use.** Android apps targeting API level 24 or higher trust only system certificate authorities by default, so you cannot read their HTTPS traffic without defeating a protection the developer chose ([Android Developers](https://developer.android.com/privacy-and-security/security-config)).
-
-**Where REA is safe, risky or off-limits:**
+REA ("Reverse Engineer Anything", [github.com/morluto/rea](https://github.com/morluto/rea)) is an MIT-licensed tool that runs as an MCP server (a plugin an AI coding agent such as Claude Code or Cursor can call) and as a command-line tool. It inspects compiled programs, Android APKs and devices, JavaScript and Electron apps, websites and saved network captures. **Its pitch is precisely the risky part**: "See a feature in an app that you want in your own product? Ask your agent to investigate it with REA… and build a version for your project". Its disclaimer puts all responsibility on the user: "You are responsible for obtaining any required authorization and complying with applicable laws" ([REA README](https://github.com/morluto/rea/blob/main/README.md)). Two facts narrow its usefulness here. REA documents no way to decrypt FairPlay, Apple's encryption on App Store binaries, and its Apple analysis is an "execution-free" inventory of a bundle you already hold ([REA Apple doc](https://github.com/morluto/rea/blob/main/docs/apple-application-analysis.md)). And Android apps targeting API level 24 or higher trust only system certificate authorities by default, so a competitor's HTTPS traffic cannot be read without defeating a protection the developer chose ([Android Developers](https://developer.android.com/privacy-and-security/security-config)). The table sorts REA's uses into safe, lawyer-first and off-limits.
 
 | Zone | Use | Why |
 |---|---|---|
@@ -444,9 +286,7 @@ Judge progress against the published medians:
 
 ### Pick an Expo-based builder that exports code
 
-**Most AI builders that genuinely ship to both stores generate Expo/React Native code.** That includes Rork, Vibecode, a0.dev, Anything, Bolt in Expo mode, Replit's mobile flow, and Claude Code or Cursor working on an Expo project. Base44 and Lovable are **web-app builders**: they reach the stores only by wrapping the web app in a WebView (an app shell that displays a website). That raises the risk of rejection under guideline 4.2 and gives weaker access to the camera, in-app purchases and push notifications ([vp0](https://vp0.com/blogs/can-base44-publish-to-app-store-and-google-play); [Lovable docs](https://docs.lovable.dev/integrations/lovable-mobile-app)).
-
-**What the builders reportedly cost and include (third-party summaries only; official pricing pages could not be fetched):**
+Most AI builders that genuinely ship to both stores generate Expo/React Native code: Rork, Vibecode, a0.dev, Anything, Bolt in Expo mode, Replit's mobile flow, and Claude Code or Cursor working on an Expo project. Base44 and Lovable are **web-app builders** that reach the stores only by wrapping the web app in a WebView (an app shell that displays a website), which raises the risk of rejection under guideline 4.2 and weakens access to the camera, in-app purchases and push notifications ([vp0](https://vp0.com/blogs/can-base44-publish-to-app-store-and-google-play); [Lovable docs](https://docs.lovable.dev/integrations/lovable-mobile-app)). Official builder pricing pages could not be fetched, so the table relies on conflicting third-party summaries.
 
 | Builder | Reported price | Store submission | Code export | Source |
 |---|---|---|---|---|
@@ -456,13 +296,7 @@ Judge progress against the published medians:
 | FlutterFlow (visual builder; produces Flutter, not Expo) | Basic US$39/month | Basic unlocks one-click store deployment | Basic unlocks code download | [lowcode.agency](https://www.lowcode.agency/blog/flutterflow-pricing-plans) |
 | Claude Code on an Expo project | Claude Pro US$20/month, which includes Claude Code | You handle submission | You own the code | [claude.com/pricing](https://claude.com/pricing) |
 
-**Shortlist Rork, Vibecode and a0.dev.** Choose the one whose live pricing page confirms three things: iOS *and* Android store submission, source-code export, and support for native modules through a development build.
-
-That last point matters because **in-app purchases require a development build and do not work in Expo Go**, Expo's quick-preview app. Expo recommends RevenueCat's `react-native-purchases` library for purchases ([Expo docs](https://raw.githubusercontent.com/expo/expo/main/docs/pages/guides/in-app-purchases.mdx)).
-
-**Claude Code on the exported code is the rescue path.** It costs US$20 a month and has the most control, but the steepest learning curve. Use it when the builder stalls or when small fixes would burn builder credits.
-
-**The supporting stack is free at launch:**
+Shortlist Rork, Vibecode and a0.dev, and choose whichever live pricing page confirms three things: iOS *and* Android store submission, source-code export, and support for native modules through a development build. That last point matters because **in-app purchases require a development build and do not run in Expo Go**, Expo's quick-preview app; Expo recommends RevenueCat's `react-native-purchases` library ([Expo docs](https://raw.githubusercontent.com/expo/expo/main/docs/pages/guides/in-app-purchases.mdx)). Claude Code on the exported code, at US$20 a month, is the rescue path when the builder stalls or when small fixes would burn builder credits. The supporting stack is free at launch.
 
 | Service | Role | Free tier |
 |---|---|---|
@@ -471,75 +305,38 @@ That last point matters because **in-app purchases require a development build a
 | PostHog | Product analytics | 1M events a month ([Toolradar](https://toolradar.com/tools/posthog/pricing)). |
 | Expo EAS | Cloud builds of the app | 15 iOS and 15 Android builds a month, with slow queues at peak ([Expo](https://docs.expo.dev/billing/plans/)). |
 
-Supabase server functions are limited to 2 seconds of CPU time per request, but time spent waiting on the AI service does not count, and the idle timeout is 150 seconds. That suits single AI calls ([Supabase limits](https://raw.githubusercontent.com/supabase/supabase/master/apps/docs/content/guides/functions/limits.mdx)).
-
-**Keep the AI key off the phone.** Expo warns that `EXPO_PUBLIC_` variables "will be visible in plain-text in your compiled application" ([Expo docs](https://raw.githubusercontent.com/expo/expo/main/docs/pages/guides/environment-variables.mdx)). Every AI call must go through a Supabase server function that holds the key as a secret, set with `supabase secrets set` ([Supabase docs](https://raw.githubusercontent.com/supabase/supabase/master/apps/docs/content/guides/functions/secrets.mdx)).
-
-**Cut AI-builder credit spend:**
-
-- Paste the complete specification in Appendix A once.
-- Build in its six phases, testing on a real device between phases.
-- Batch your fixes.
-- Move small bugs to Claude Code after exporting the code.
-
-The recurring complaint about these builders is that credits "burn quickly, often on fixing the AI's own mistakes" ([superappp](https://www.superappp.com/blog/vibecode-app-review-2026-pricing-real-reviews)).
+Supabase server functions allow 2 seconds of CPU time per request, but time spent waiting on the AI service does not count and the idle timeout is 150 seconds, which suits single AI calls ([Supabase limits](https://raw.githubusercontent.com/supabase/supabase/master/apps/docs/content/guides/functions/limits.mdx)). **Keep the AI key off the phone.** Expo warns that `EXPO_PUBLIC_` variables "will be visible in plain-text in your compiled application" ([Expo docs](https://raw.githubusercontent.com/expo/expo/main/docs/pages/guides/environment-variables.mdx)), so every AI call must go through a Supabase server function that holds the key as a secret, set with `supabase secrets set` ([Supabase docs](https://raw.githubusercontent.com/supabase/supabase/master/apps/docs/content/guides/functions/secrets.mdx)). To limit builder credit spend, paste the full Appendix A specification once, build in its six phases while testing on a real device between them, batch fixes, and move small bugs to Claude Code after exporting the code; the recurring complaint about these builders is that credits "burn quickly, often on fixing the AI's own mistakes" ([superappp](https://www.superappp.com/blog/vibecode-app-review-2026-pricing-real-reviews)).
 
 ### The rejection traps that sink AI-built clones
 
-These rules come from Apple's App Review Guidelines (last updated 8 June 2026), fetched on 12 October 2026 ([App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)):
+Apple's App Review Guidelines (last updated 8 June 2026, fetched 12 October 2026) target the clone playbook directly ([App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)). The table pairs each trap with its fix.
 
-1. **Thin apps and web wrappers (4.2).** Thin or wrapped apps get rejected. Third-party blogs describe 4.2 as the most common rejection for AI-built apps ([vp0](https://vp0.com/blogs/does-apple-reject-ai-generated-apps)).
-2. **Look-alike templates (4.3).** Template user interfaces that look like other apps trigger spam rejections. Customise the onboarding, design system and icon ([vp0](https://vp0.com/blogs/app-store-rejection-4-3-spam-design-ai-fix)).
-3. **Template services (4.2.6).** "Apps created from a commercialized template or app generation service will be rejected unless they are submitted directly by the provider of the app's content." One vendor reads this as aimed at who submits the app, so submit under your own developer account as the content owner. This reading is not settled.
-4. **Copycat names, icons, metadata or screenshots (4.1, 5.2.1).**
-5. **Subscription disclosure (3.1.2).** Subscriptions must last at least seven days and deliver ongoing value. The paywall must show the subscription's name and length, the full renewal price "clearly and prominently", a restore option and links to the Terms and Privacy Policy. The billed amount must be the most prominent price ([Apple subscriptions](https://developer.apple.com/app-store/subscriptions/)). Bait-and-switch gets the app removed.
-6. **Privacy (5.1.1 and 5.1.2).** Provide a privacy policy, offer in-app account deletion if accounts exist, don't force login, and use the system photo picker rather than full photo-library access. **Get explicit permission before sharing personal data "with third-party AI"** (5.1.2(i)), and never use camera data for marketing (5.1.2(vi)).
-7. **No downloaded code (2.5.2).** Apps must not download or execute new code. Anything's own app was reportedly pulled under this rule around March 2026 ([superappp](https://www.superappp.com/blog/anything-ai-app-builder-review-2026-pricing-verdic.md)).
-8. **Regulated fields (5.1.1(ix)).** Healthcare and similar fields belong to companies, not individual developers.
+| Guideline | Trap | Fix |
+|---|---|---|
+| 4.2 Minimum functionality | Thin or WebView-wrapped apps; third-party blogs describe 4.2 as the most common rejection for AI-built apps ([vp0](https://vp0.com/blogs/does-apple-reject-ai-generated-apps)) | Fully native screens and a complete core loop |
+| 4.3 Spam | Template interfaces that look like other builds ([vp0](https://vp0.com/blogs/app-store-rejection-4-3-spam-design-ai-fix)) | Customise onboarding, design system and icon; state the differentiator |
+| 4.2.6 Templates | "Apps created from a commercialized template or app generation service will be rejected unless they are submitted directly by the provider of the app's content" | Submit under your own developer account as the content owner (one vendor's reading; not settled) |
+| 4.1, 5.2.1 Copycats and IP | Competitor names, icons, metadata or screenshots | Original name, icon, copy and screenshots |
+| 3.1.1, 3.1.2 Purchases and subscriptions | Missing disclosures; bait-and-switch, which gets the app removed | In-app purchase only; periods of at least 7 days with ongoing value; the subscription's name, length and full renewal price shown "clearly and prominently", with the billed amount the most prominent price; restore option; Terms and Privacy links ([Apple subscriptions](https://developer.apple.com/app-store/subscriptions/)) |
+| 5.1.1, 5.1.2 Privacy | No privacy policy, forced login, full photo-library access, no account deletion; sharing data with AI without consent | Privacy policy in the app; anonymous use; the system photo picker; in-app deletion if accounts exist; explicit permission before sharing personal data "with third-party AI" (5.1.2(i)); camera data never used for marketing (5.1.2(vi)) |
+| 2.5.2 Executable code | Downloading or running new code; Anything's own app was reportedly pulled under this rule around March 2026 ([superappp](https://www.superappp.com/blog/anything-ai-app-builder-review-2026-pricing-verdic.md)) | Ship the scoring rules inside the app bundle and change them only through app updates |
+| 5.1.1(ix) Regulated fields | Healthcare-type claims from an individual developer | General information only; no medical, allergy or diagnostic claims |
 
-**Also note:**
-
-- **Age rating.** Since September 2026, Apple's age-rating questionnaire includes social-media questions ([Apple Developer News](https://developer.apple.com/news/)), so add no social feeds.
-- **Store setup is where AI tools fail.** Configuring App Store Connect and in-app purchases is where vibe-coded apps commonly stall ([Medium](https://akshankrithick.medium.com/why-vibe-coded-apps-fail-to-make-money-and-the-3-technical-gaps-killing-revenue-and-the-fix-1ac1bbc92e7c)). Budget manual time for it.
-- **Google Play's equivalents were not read.** Its spam and minimum-functionality, impersonation and subscription policy pages were not fetched in this research, so read them before submitting.
+Two more checks apply. Since September 2026, Apple's age-rating questionnaire includes social-media questions ([Apple Developer News](https://developer.apple.com/news/)), so add no social feeds. And configuring App Store Connect and in-app purchases is where vibe-coded apps most often stall ([Medium](https://akshankrithick.medium.com/why-vibe-coded-apps-fail-to-make-money-and-the-3-technical-gaps-killing-revenue-and-the-fix-1ac1bbc92e7c)), so budget manual time for it. Google Play's spam and minimum-functionality, impersonation and subscription policy pages were not fetched for this research and must be read before submission.
 
 ### Google's 14-day closed test sets the Android launch date
 
-**New personal Google Play accounts must run a closed test first.** Personal accounts created after 13 November 2023 need **at least 12 testers opted in continuously for at least 14 days** before applying for production access ([Google Play Console Help](https://support.google.com/googleplay/android-developer/answer/14151465?hl=en-EN)). The requirement was previously 20 testers ([Android Authority](https://androidauthority.com/google-play-app-testing-requirement-3510580)). Third-party guides say testers must actually install the app and stay opted in. They also report that organisation accounts are exempt ([RevenueCat blog](https://www-docs.revenuecat.com/blog/engineering/google-play-14-day)), but those need a D-U-N-S business number, which can take up to 30 days ([Google Play Console Help](https://support.google.com/googleplay/android-developer/answer/10841920)).
+New personal Google Play accounts created after 13 November 2023 must run a closed test with **at least 12 testers opted in continuously for at least 14 days** before applying for production access ([Google Play Console Help](https://support.google.com/googleplay/android-developer/answer/14151465?hl=en-EN)); the requirement was previously 20 testers ([Android Authority](https://androidauthority.com/google-play-app-testing-requirement-3510580)). Third-party guides say testers must actually install the app and stay opted in, and report that organisation accounts are exempt ([RevenueCat blog](https://www-docs.revenuecat.com/blog/engineering/google-play-14-day)), but organisation accounts need a D-U-N-S business number that can take up to 30 days ([Google Play Console Help](https://support.google.com/googleplay/android-developer/answer/10841920)). Recruit 15–20 testers in week one to keep a buffer above 12, ship the first Android build to the closed test by day 7–10, and expect production access around day 22–26, plus Google's review time, which was not quantified. iOS moves faster because TestFlight allows up to 10,000 external testers ([Apple](https://developer.apple.com/programs/)), so plan to launch on iOS first.
 
-**In practice:**
-
-- Recruit 15–20 testers in week 1 so you keep a buffer above 12.
-- Ship the first Android build to the closed test by day 7–10.
-- Expect Android production access around day 22–26, plus Google's review time, which was not quantified.
-
-**iOS is faster.** TestFlight allows up to 10,000 external testers ([Apple](https://developer.apple.com/programs/)), so plan to launch on iOS first.
-
-**Store fees:**
-
-- **Apple:** the Developer Program costs **US$99 a year in local currency**. It was A$149 in 2020; today's Australian price was not confirmed ([Apple](https://developer.apple.com/support/enrollment/); [OzBargain](https://ozbargain.com.au/node/535826)). Join the Small Business Program immediately: its 15% commission starts only 15 days after the end of the fiscal month in which you are approved ([Apple SBP](https://developer.apple.com/app-store/small-business-program/)).
-- **Google:** a one-time **US$25** fee ([SplitMetrics](https://splitmetrics.com/blog/google-play-apple-app-store-fees/)). Google takes 15% on auto-renewing subscriptions automatically ([Google Play Console Help](https://support.google.com/googleplay/android-developer/answer/112622?hl=en)).
-
-**Selling into the EU.** EU distribution makes an individual trader display an address or PO box, a phone number and an email address under the EU Digital Services Act ([Apple DSA](https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-trader-requirements/)). You can exclude EU storefronts at launch.
-
-**Your legal name is public.** As a sole trader enrolling as an individual, your legal name is shown as the seller.
+Apple's Developer Program costs **US$99 a year, charged in local currency**; the Australian price was A$149 in 2020, and today's figure was not confirmed ([Apple](https://developer.apple.com/support/enrollment/); [OzBargain](https://ozbargain.com.au/node/535826)). Join the Small Business Program immediately, because its 15% commission starts only 15 days after the end of the fiscal month in which enrolment is approved ([Apple SBP](https://developer.apple.com/app-store/small-business-program/)). Google charges a one-time **US$25** ([SplitMetrics](https://splitmetrics.com/blog/google-play-apple-app-store-fees/)) and takes 15% on auto-renewing subscriptions automatically ([Google Play Console Help](https://support.google.com/googleplay/android-developer/answer/112622?hl=en)). Distributing in the EU makes an individual trader display an address or PO box, a phone number and an email under the EU Digital Services Act ([Apple DSA](https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-trader-requirements/)), so consider excluding EU storefronts at launch. An individual enrolment also shows the founder's legal name as the seller.
 
 ### Australian setup: ABN and GST before you can sell
 
-**Apple requires an ABN and GST registration from Australian developers.** Apple's tax help page states that "although you may not be required to register for Goods and Services Tax (GST) with the Australian government, Apple requires that Australia-based developers have a GST registration to sell apps". It requires an **ABN and proof of GST registration**, plus a US tax form, which for individuals is the W-8BEN ([Apple: provide tax information](https://developer.apple.com/help/app-store-connect/manage-tax-information/provide-tax-information/)). So a sole trader selling subscriptions needs an ABN and voluntary GST registration before Apple's Paid Apps Agreement can be completed.
-
-**Google's position, and the conflict over it.** Google's help page says Australian-based developers are responsible for charging and remitting GST on Google Play sales to Australian customers ([Google Play Console Help](https://support.google.com/googleplay/android-developer/answer/138000?hl=en)). One consultancy describes Apple as using an agency arrangement, where you report GST from Apple's tax invoices, while Google leaves GST to you ([42 Advisory](https://42advisory.com.au/42-advisory-blog/gst-app-store-sales-australia)). Another source treats the stores as the supplier ([Lawpath](https://lawpath.com.au/blog/launching-an-app)).
-
-**Settle this with an accountant or registered tax agent before your first sale.** Raise:
-
-- the GST treatment on each store;
-- how often you must lodge a BAS (Business Activity Statement);
-- the A$75,000 registration threshold, which was not verified this session;
-- your income-tax position.
-
-**Keep it simple at first.** A Pty Ltd company adds ASIC costs, D-U-N-S delays and separate tax returns, which is probably not worth it for a A$1,000 test. Revisit if revenue grows or if you move into regulated categories.
+Apple's tax help page is explicit: "Although you may not be required to register for Goods and Services Tax (GST) with the Australian government, Apple requires that Australia-based developers have a GST registration to sell apps." It asks for an **ABN and proof of GST registration**, plus a US tax form, which for individuals is the W-8BEN ([Apple: provide tax information](https://developer.apple.com/help/app-store-connect/manage-tax-information/provide-tax-information/)). A sole trader selling subscriptions therefore needs an ABN and voluntary GST registration before Apple's Paid Apps Agreement can be completed. Google's help page says Australian-based developers are responsible for charging and remitting GST on Google Play sales to Australian customers ([Google Play Console Help](https://support.google.com/googleplay/android-developer/answer/138000?hl=en)). One consultancy describes Apple as using an agency arrangement, in which the developer reports GST from Apple's tax invoices, while Google leaves GST to the developer ([42 Advisory](https://42advisory.com.au/42-advisory-blog/gst-app-store-sales-australia)); another source treats the stores as the supplier ([Lawpath](https://lawpath.com.au/blog/launching-an-app)). **Settle this with an accountant or registered tax agent before the first sale**, covering the GST treatment on each store, how often a BAS (Business Activity Statement) must be lodged, the A$75,000 registration threshold (not verified this session) and income tax. A Pty Ltd company adds ASIC costs, D-U-N-S delays and separate tax returns, which is probably not worth it for a A$1,000 test; revisit if revenue grows or the app moves into regulated categories.
 
 ### Four-week build timeline
+
+The timeline below starts Android closed testing early so the 14-day clock runs while the paywall and polish are being built.
 
 | Days | Build | Accounts and compliance | Marketing |
 |---|---|---|---|
@@ -552,7 +349,7 @@ These rules come from Apple's App Review Guidelines (last updated 8 June 2026), 
 
 ### Line-item budget in AUD and USD
 
-Conversion is at 1 USD = A$1.45; the Apple fee uses the last known Australian price. Figures exclude any GST that vendors charge.
+Conversion is at 1 USD = A$1.45, the Apple fee uses the last known Australian price, and figures exclude any GST that vendors charge.
 
 | # | Item | USD | AUD | Notes |
 |---|---|---|---|---|
@@ -571,23 +368,13 @@ Conversion is at 1 USD = A$1.45; the Apple fee uses the last known Australian pr
 | 13 | Contingency (extra builder month, resubmissions, exchange rate, vendor GST) | 125 | 181 | Hold in reserve |
 | | **Total** | **≈680** | **≈992** | |
 
-**Not budgeted:** an accountant or tax agent consultation, an IP lawyer and trade mark filing. Get quotes; these may cost more than the whole build.
-
-**After launch, monthly costs stay near zero until revenue arrives:**
-
-- **Apple renewal:** US$99 a year.
-- **Builder:** US$20–50 a month only until you export the code.
-- **AI:** ≈US$0.03–0.66 per heavy user per month.
-- **Supabase Pro:** US$25 a month only once you outgrow the free tier.
-- **Commissions:** 15% to the stores, plus RevenueCat's 1% above US$2.5k of monthly tracked revenue.
+Three items are deliberately not budgeted: an accountant or registered tax agent, an IP lawyer, and trade mark filing. Get quotes, because together they may cost more than the whole build. After launch, monthly costs stay near zero until revenue arrives. Apple renews at US$99 a year, the builder costs US$20–50 a month only until the code is exported, AI costs about US$0.03–0.66 per heavy user per month, and Supabase Pro (US$25 a month) is needed only once the free tier is outgrown. The stores take 15%, and RevenueCat takes 1% above US$2.5k of monthly tracked revenue.
 
 ## Market the scan result, not the AI behind it
 
 ### Talk about the result, not the AI
 
-**Lead with what the user sees.** Show what is actually on the label and exactly why it scored the way it did. "Made with AI" is a weak hook for consumers: the evidence suggests it appeals to builder and tech audiences, not users.
-
-**Keep every claim true and checkable:**
+Lead with what the user sees: what is actually on the label and exactly why it scored the way it did. "Made with AI" is a weak hook for consumers; the evidence suggests it appeals to builder and tech audiences rather than users. Every claim should be true and checkable.
 
 | Say | Avoid | Why |
 |---|---|---|
@@ -598,11 +385,7 @@ Conversion is at 1 USD = A$1.45; the Apple fee uses the last known Australian pr
 
 ### Formats and hook frameworks
 
-**Volume times a repeatable format times an output that is the hook.** That is the pattern across every documented organic case. Stronger reused one 6-second "fade-in" visual across hundreds of posts, and viewers watched it more than twice on average **[V5]** ([Superwall](https://superwall.com/blog/how-stronger-built-a-usd600k-app-using-viral-on-demand-tiktok-strategy)). A gym-planner app posted **725 TikToks in 295 days**, and "98% of Jack's high-performing videos are slideshows" **[V5]** ([Shortimize](https://shortimize.com/blog/the-slideshow-strategy-that-generated-700000-users-in-275-days)).
-
-**Each successful case took months of posting.** Jack Friks reports ≈US$10k a month across two apps from about an hour a day of marketing **[V5]** ([Sliplane summary](https://onepage-research.sliplane.app/articles/youtube.com/yt-qeY283nBhIA)). This is the honest cost of the "minimise effort" constraint: the build can be easy, but the posting cannot be skipped.
-
-**Formats ranked by cost:**
+Volume, multiplied by a repeatable format, multiplied by an output that is itself the hook: that is the pattern across every documented organic case. Stronger reused one 6-second "fade-in" visual across hundreds of posts, with viewers watching it more than twice on average **[V5]** ([Superwall](https://superwall.com/blog/how-stronger-built-a-usd600k-app-using-viral-on-demand-tiktok-strategy)), and a gym-planner app posted **725 TikToks in 295 days**, with "98% of Jack's high-performing videos" being slideshows **[V5]** ([Shortimize](https://shortimize.com/blog/the-slideshow-strategy-that-generated-700000-users-in-275-days)). Each success took months. Jack Friks reports about US$10k a month across two apps from roughly an hour a day of marketing **[V5]** ([Sliplane summary](https://onepage-research.sliplane.app/articles/youtube.com/yt-qeY283nBhIA)), which is the honest cost of the "minimise effort" constraint: the build can be easy, but the posting cannot be skipped. The formats below are ranked by cost.
 
 | Format | Effort and cost | Evidence | Label-scanner version |
 |---|---|---|---|
@@ -613,9 +396,7 @@ Conversion is at 1 USD = A$1.45; the Apple fee uses the last known Australian pr
 | AI-animated story | Medium–high, ≈US$5–20 per finished video | **No outcome data** (see below) | Parent overwhelmed by tiny print, then the app |
 | Paid creator UGC | Managing time plus capped pay | STOPPR made US$5k in two weeks from two videos **[V3]** ([Indie Hackers](https://www.indiehackers.com/post/from-zero-to-10k-mo-app-portfolio-in-a-year-71h2PPGYn1VnPOkj9qi6)) | A parent creator scans their own pantry |
 
-**Hooks are judged in the first three seconds.** TikTok reportedly uses retention at 3 seconds as an early quality signal ([Opus Clip](https://www.opus.pro/blog/tiktok-hook-formulas)). Test variants and keep the one that holds viewers. Instagram's **Trial Reels** show a reel to non-followers first, so you can test without cluttering your grid ([9to5Mac](https://9to5mac.com/2024/12/10/instagrams-new-trial-reels-feature-lets-creators-test-content-with-non-followers)).
-
-**Five hook frameworks** (synthesised from the sources above; not individually tested on apps):
+Hooks are judged in the first three seconds: TikTok reportedly uses retention at three seconds as an early quality signal ([Opus Clip](https://www.opus.pro/blog/tiktok-hook-formulas)), so test variants and keep the one that holds viewers. Instagram's **Trial Reels** show a reel to non-followers first, which allows testing without cluttering the grid ([9to5Mac](https://9to5mac.com/2024/12/10/instagrams-new-trial-reels-feature-lets-creators-test-content-with-non-followers)). Five hook frameworks, synthesised from these sources rather than individually tested on apps, cover most needs.
 
 | Framework | Structure |
 |---|---|
@@ -627,17 +408,7 @@ Conversion is at 1 USD = A$1.45; the Apple fee uses the last known Australian pr
 
 ### The AI-animated story format: workflow, costs and honest evidence
 
-**What it is.** A narrated, stylised animated mini-story: a character in a relatable struggle, an escalation, a turn where the app appears as a real screen, a payoff, then an end card. The closest documented descriptions are idea lists recommending "a short, motivational animated story about overcoming a small struggle" and animated "POV" skits ([Anijam](https://www.anijam.ai/blog/ai-animation-ideas/)). At ad scale, short-drama apps run "AI comic drama" creatives by the hundred thousand ([SocialPeta](https://socialpeta.com/en/blog/top-mobile-app-ad-creatives-and-advertising-trends-in-april-2026)).
-
-**What the evidence does and doesn't show:**
-
-- **No outcome data.** **No credible case study with install or revenue numbers was found for an app grown mainly through AI-animated story videos.**
-- **Comparisons come from vendors.** AI-versus-human UGC comparisons are vendor-reported and mostly measure paid-ad return on spend. One cites AI UGC converting 5–10% worse than human UGC at ≈98% lower cost ([Lumigen](https://lumigen.app/blog/ai-avatar-ugc-ads-2026/)).
-- **There is a counter-trend.** 2026 commentary reports a backlash against polished AI, with hand-drawn and imperfect styles gaining ground ([Hubapps](https://hubapps.team/blog/anti-ai-mobile-ads-playbook)).
-
-So treat this format as **one test format among several (1–2 a week), not the strategy.**
-
-**Tools and prices seen around October 2026** (USD; sources conflict, so verify):
+The format is a narrated, stylised animated mini-story: a character in a relatable struggle, an escalation, a turn in which the app appears as a real screen, a payoff and an end card. The closest documented descriptions are idea lists recommending "a short, motivational animated story about overcoming a small struggle" and animated "POV" skits ([Anijam](https://www.anijam.ai/blog/ai-animation-ideas/)), and short-drama apps run "AI comic drama" ad creatives by the hundred thousand ([SocialPeta](https://socialpeta.com/en/blog/top-mobile-app-ad-creatives-and-advertising-trends-in-april-2026)). **No credible case study with install or revenue numbers was found for an app grown mainly through AI-animated story videos.** The AI-versus-human UGC comparisons that exist are vendor-reported and mostly measure paid-ad return on spend; one cites AI UGC converting 5–10% worse than human UGC at about 98% lower cost ([Lumigen](https://lumigen.app/blog/ai-avatar-ugc-ads-2026/)). Commentary in 2026 also reports a backlash against polished AI, with hand-drawn and imperfect styles gaining ground ([Hubapps](https://hubapps.team/blog/anti-ai-mobile-ads-playbook)). Treat the format as one test among several, at one or two videos a week, not as the strategy. The tools and prices below were seen around October 2026, in USD; sources conflict, so verify before buying.
 
 | Tool | Use | Price seen |
 |---|---|---|
@@ -650,21 +421,7 @@ So treat this format as **one test format among several (1–2 a week), not the 
 | ElevenLabs | Narration | Starter US$5–6/month for 30,000 credits with commercial rights ([Smallest.ai](https://smallest.ai/blog/elevenlabs-pricing-plans-cost-what-you-get-in-2026)) |
 | CapCut | Editing | Core editing free ([MindStudio](https://www.mindstudio.ai/blog/ai-filmmaking-cost-breakdown-2026/)) |
 
-**Workflow and character consistency:**
-
-1. **Lock the character as still images first.** Create a reference "character pack" with an image model.
-2. **Animate each shot from a still.** Generate every shot from one of those stills: with Kling, "its start frame is the only identity it gets" ([8frame](https://www.8frame.co/blog/best-ai-video-generator-for-consistent-characters-2026)).
-3. **Expect retries.** Plan on about **3 generations per usable shot**.
-4. **Add narration** in ElevenLabs.
-5. **Assemble in CapCut** with a real screen recording of the app.
-
-**Costs:**
-
-- **Published examples:** a 15-second film made with still images, one MiniMax render and ElevenLabs narration cost about US$5.69 in credits ([MindStudio](https://www.mindstudio.ai/blog/ai-filmmaking-cost-breakdown-2026/)).
-- **My arithmetic for 30 seconds fully animated:** 30 seconds at 720p is 180 Kling credits, and three attempts per shot makes ≈540. That is most of a ≈660-credit Standard plan, so **expect 1–2 fully animated stories a month** on a ≈US$10 plan.
-- **A cheaper weekly mix:** for a weekly cadence, combine 2–5 AI stills with slow pans and zooms, narration, and only 1–2 animated "hero" shots. That works out to roughly US$5–20 per finished video.
-
-**Sample 35-second beat outline for the label scanner:**
+The workflow that keeps a character consistent starts with still images. Lock the character as a reference "character pack" in an image model, then generate every shot image-to-video from one of those stills, because with Kling "its start frame is the only identity it gets" ([8frame](https://www.8frame.co/blog/best-ai-video-generator-for-consistent-characters-2026)). Expect about three generations per usable shot, then add narration in ElevenLabs and assemble in CapCut alongside a real screen recording of the app. A published 15-second example built from stills, one MiniMax render and ElevenLabs narration cost about US$5.69 in credits ([MindStudio](https://www.mindstudio.ai/blog/ai-filmmaking-cost-breakdown-2026/)). By my arithmetic, 30 fully animated seconds at 720p use 180 Kling credits, or about 540 with three attempts per shot. That is most of a ≈660-credit Standard plan, so **expect one or two fully animated stories a month** on a roughly US$10 plan. For a weekly cadence, combine two to five AI stills with slow pans and zooms, narration and only one or two animated "hero" shots, for roughly US$5–20 per finished video. A 35-second story for the label scanner could run as follows.
 
 | Time | Beat |
 |---|---|
@@ -674,68 +431,21 @@ So treat this format as **one test format among several (1–2 a week), not the 
 | 24–31 s | The lunchbox gets packed and the child is happy. |
 | 31–35 s | End card: "Search [APP_NAME] on the App Store." |
 
-**Rules for using it safely:**
-
-- Use an **original** mascot, never "Pixar" or "Disney" styles or names. Disney/Pixar-branded AI trends drew IP pushback ([UBC Allard IP blog](https://iplaw.allard.ubc.ca/2023/12/12/the-rising-disney-pixar-ai-trend-and-microsofts-attempts-to-shut-it-down/)).
-- Always use real app screens.
-- Never create AI "customers" giving testimonials.
-- Turn on the platform's AI label anyway, even when stylised animation is technically exempt.
-- **Don't depend on one tool.** Sora vanished within about six months, so keep your character packs as still images you can move to another model.
+Use an original mascot and never "Pixar" or "Disney" styles or names, since Disney/Pixar-branded AI trends drew IP pushback ([UBC Allard IP blog](https://iplaw.allard.ubc.ca/2023/12/12/the-rising-disney-pixar-ai-trend-and-microsofts-attempts-to-shut-it-down/)). Always show real app screens, never create AI "customers" giving testimonials, and switch on the platform's AI label even where stylised animation is technically exempt. Sora disappeared within about six months, so keep character packs as stills that can move to another model rather than depending on any one tool.
 
 ### Creators, UGC and small paid tests
 
-**Pay creators per view, with a cap.** Performance-only deals for small creators pay about **US$1 per 1,000 views with no upfront fee**, and nothing if a video flops. One vendor claims US$0.40 blended cost per 1,000 views across mature programmes **[V5]** ([viral.app](https://viral.app/blog/guides/sub-1-cpm-ugc-playbook)). A live marketplace campaign paid US$1.11 per 1,000 ([Content Rewards](https://contentrewards.com/share/report/cr1.eyJjIjoiNzdiM2UyM2QtNDU5ZC00MWNiLTk4MTctYWQ2MmZlMmI4ZjRmIiwibyI6IjI3NzFlOGIwLWE3M2ItNDQwMi05ZmE1LWIxYmQyYzg1ZDBhYSIsInQiOjE3ODg4NzY1ODUzMTB9.wrRObFfDsm4owrHCmyrDhc)).
+Performance-only creator deals pay about **US$1 per 1,000 views with no upfront fee**, and nothing if a video flops; one vendor claims a US$0.40 blended cost per 1,000 views across mature programmes **[V5]** ([viral.app](https://viral.app/blog/guides/sub-1-cpm-ugc-playbook)), and a live marketplace campaign paid US$1.11 per 1,000 ([Content Rewards](https://contentrewards.com/share/report/cr1.eyJjIjoiNzdiM2UyM2QtNDU5ZC00MWNiLTk4MTctYWQ2MmZlMmI4ZjRmIiwibyI6IjI3NzFlOGIwLWE3M2ItNDQwMi05ZmE1LWIxYmQyYzg1ZDBhYSIsInQiOjE3ODg4NzY1ODUzMTB9.wrRObFfDsm4owrHCmyrDhc)). Cal AI reportedly bundled deals into four videos a month, gave bigger creators view guarantees, and had virtual assistants message more than 50 influencers a day **[V5; the newsletter is sponsored by a virtual-assistant firm]** ([THE DOCK](https://thedock.beehiiv.com/p/how-a-17-year-old-built-a-1-1m-month-ai-app)). AbMaxx paid a major creator in equity rather than cash **[V5]**, and Prayer Lock found a winning UGC format organically before putting TikTok Spark Ads behind it at about US$3–4 per trial **[V3/V5]** ([gist.ly](https://gist.ly/youtube-summarizer/how-i-built-a-20kmonth-app-in-3-days-with-ai)). For this budget, sign three to five micro-creators based in the US, UK or Canada at about US$1 per 1,000 views, capped at US$30–50 per video. Give each a unique code to track conversions, and use a one-paragraph agreement that requires the platform's paid-partnership toggle plus #ad. Never require users to post or rate the app in exchange for features, which Apple 3.1.2 forbids.
 
-**How the big apps structured creator deals:**
-
-- **Cal AI** reportedly bundled deals (4 videos a month rather than one-offs), gave bigger creators **view guarantees**, and had virtual assistants message 50+ influencers a day **[V5; the newsletter is sponsored by a virtual-assistant firm]** ([THE DOCK](https://thedock.beehiiv.com/p/how-a-17-year-old-built-a-1-1m-month-ai-app)).
-- **AbMaxx** paid a major creator in equity rather than cash **[V5]**.
-- **Prayer Lock** found a winning UGC format organically, then put TikTok Spark Ads behind it at ≈US$3–4 per trial **[V3/V5]** ([gist.ly](https://gist.ly/youtube-summarizer/how-i-built-a-20kmonth-app-in-3-days-with-ai)).
-
-**For this budget:**
-
-- Sign 3–5 micro-creators based in the US, UK or Canada, at about US$1 per 1,000 views, capped at US$30–50 per video.
-- Give each creator a unique code so you can see which posts convert.
-- Use a one-paragraph agreement that requires the platform's paid-partnership toggle plus #ad.
-- Never require users to post or rate the app in exchange for features, which Apple 3.1.2 forbids.
-
-**Paid ads: test small, and only on Apple:**
-
-- **Apple Ads Basic.** It caps spend per app and handles bidding for you. At about US$5 a day, expect roughly 52–114 installs a month. US cost per install is about US$4 at the median, and US$3–7 is typical in health and fitness ([Trysonar](https://trysonar.app/blog/apple-search-ads-cost)). Run it for two weeks only after the store page converts, and stop if cost per install exceeds the value of a first-week trial.
-- **Google App Campaigns: skip.** A third-party guide says they need 2–4 weeks of learning and a daily budget of about 50 times your target cost per acquisition ([groas](https://www.groas.com/post/google-ads-for-mobile-apps-2026-complete-app-campaign-guide-installs-engagement-revenue)). Google has also enforced a US$5-a-day minimum on its Demand Gen campaigns since April 2026 ([Google Ads Developer Blog](https://ads-developers.googleblog.com/2026/02/minimum-budget-requirement-for-demand.html?m=1)). That is far beyond this budget.
-
-**Reddit:** an Australian app got its first 1,000 users in about three weeks by posting *questions asking for feedback* rather than promotions ([SmartCompany](https://www.smartcompany.com.au/startupsmart/how-we-got-our-first-1000-users-via-a-reddit-campaign/)). QUITTR's Reddit-heavy approach reportedly got many founder accounts blocked ([vc.ru](https://vc.ru/growth/1762617-kak-quittr-dorosli-do-35k-den)).
+Paid ads deserve only a small Apple test. Apple Ads Basic caps spend per app and handles bidding; at about US$5 a day, one guide projects roughly 52–114 installs a month, with US cost per install around US$4 at the median and US$3–7 typical in health and fitness ([Trysonar](https://trysonar.app/blog/apple-search-ads-cost)). Run it for two weeks only after the store page converts, and stop if cost per install exceeds the value of a first-week trial. Skip Google App Campaigns: a third-party guide says they need two to four weeks of learning and a daily budget of about 50 times the target cost per acquisition ([groas](https://www.groas.com/post/google-ads-for-mobile-apps-2026-complete-app-campaign-guide-installs-engagement-revenue)), and Google has enforced a US$5-a-day minimum on its Demand Gen campaigns since April 2026 ([Google Ads Developer Blog](https://ads-developers.googleblog.com/2026/02/minimum-budget-requirement-for-demand.html?m=1)). On Reddit, an Australian app gained its first 1,000 users in about three weeks by posting questions asking for feedback rather than promotions ([SmartCompany](https://www.smartcompany.com.au/startupsmart/how-we-got-our-first-1000-users-via-a-reddit-campaign/)), while QUITTR's Reddit-heavy approach reportedly got many founder accounts blocked ([vc.ru](https://vc.ru/growth/1762617-kak-quittr-dorosli-do-35k-den)).
 
 ### ASO for a new app
 
-**Only three fields drive iOS search ranking:**
-
-- **Title:** 30 characters. Put your main keyword here.
-- **Subtitle:** 30 characters. Put a benefit keyword here.
-- **Hidden keyword field:** 100 characters. Fill it with comma-separated terms not already in the title or subtitle.
-
-**The description does not affect iOS ranking** ([Phiture](https://phiture.com/asostack/aso-trends-in-2026/)).
-
-**Screenshot captions are probably not indexed.** Claims that Apple ranks screenshot caption text are disputed: Phiture reports Apple denied it, and a test of 64 phrases found no strong evidence ([Phiture](https://phiture.com/asostack/aso-trends-in-2026/)). Write captions to convert visitors, not to rank.
-
-**Two more rules:**
-
-- **Screenshots:** make the first three show the score and the reason behind it.
-- **Name match:** every "search X on the App Store" call to action must match the exact app title.
-
-**Still to check yourself:** Apple's limits on review prompts and Google Play's own ASO specifics were not covered in this research, so check Apple's documentation directly.
+Only three fields drive iOS search ranking: the 30-character title, which should carry the main keyword; the 30-character subtitle, which should carry a benefit keyword; and the hidden 100-character keyword field, filled with comma-separated terms not already in the title or subtitle. **The description does not affect iOS ranking** ([Phiture](https://phiture.com/asostack/aso-trends-in-2026/)). Claims that Apple indexes screenshot caption text are disputed: Phiture reports Apple denied it, and a test of 64 phrases found no strong evidence ([Phiture](https://phiture.com/asostack/aso-trends-in-2026/)). Write captions to convert visitors, and make the first three screenshots show the score and the reason behind it. Every "search X on the App Store" call to action must match the exact app title. Apple's limits on review prompts and Google Play's own ASO specifics were not covered in this research, so check Apple's documentation directly.
 
 ### Disclosure rules that apply to an Australian founder targeting the US
 
-**Australia.**
-
-- **Ads must be identifiable.** AANA Code of Ethics s2.7 requires that "Advertising shall be clearly distinguishable as such". Clear, upfront labels such as #ad or "paid partnership" are expected ([AANA](https://aana.com.au/2023/04/26/highlights-from-the-accc-influencer-sweep-findings/)).
-- **The ACCC holds brands responsible too.** It applies the Australian Consumer Law to posts a business incentivises, *including against the brands and marketers who use influencers*, and gifted products can trigger disclosure ([Clayton Utz](https://www.claytonutz.com/knowledge/2022/august/as-the-accc-announces-a-crackdown-on-influencers-some-dos-and-donts-of-influencer-advertising)).
-- **There is practical guidance.** The voluntary AiMCO code gives practical guidance on disclosure and gifting ([DLA Piper](https://consumer.dlapiper.com/post/102itge/influencer-marketing-best-practice-in-australia-the-aimco-code-of-practice)).
-
-**United States.** The FTC's rule in force since 21 October 2024 bans fake and **AI-generated reviews and testimonials**, and buying or selling fake followers, likes or views ([Sidley](https://datamatters.sidley.com/2024/08/30/u-s-ftcs-new-rule-on-fake-and-ai-generated-reviews-and-social-media-bots/)). The FTC's Endorsement Guides were not retrieved in this research, so read them directly.
-
-**Platform AI labels:**
+In Australia, AANA Code of Ethics s2.7 requires that "Advertising shall be clearly distinguishable as such", and clear, upfront labels such as #ad or "paid partnership" are expected ([AANA](https://aana.com.au/2023/04/26/highlights-from-the-accc-influencer-sweep-findings/)). The ACCC applies the Australian Consumer Law to posts a business incentivises, **including against the brands and marketers who use influencers**, and gifted products can trigger disclosure ([Clayton Utz](https://www.claytonutz.com/knowledge/2022/august/as-the-accc-announces-a-crackdown-on-influencers-some-dos-and-donts-of-influencer-advertising)); the voluntary AiMCO code gives practical guidance on disclosure and gifting ([DLA Piper](https://consumer.dlapiper.com/post/102itge/influencer-marketing-best-practice-in-australia-the-aimco-code-of-practice)). In the US, the FTC rule in force since 21 October 2024 bans fake and **AI-generated reviews and testimonials**, and the buying or selling of fake followers, likes or views ([Sidley](https://datamatters.sidley.com/2024/08/30/u-s-ftcs-new-rule-on-fake-and-ai-generated-reviews-and-social-media-bots/)). The FTC's Endorsement Guides were not retrieved in this research and should be read directly. Each platform then adds its own AI-labelling rules.
 
 | Platform | Rule |
 |---|---|
@@ -743,11 +453,11 @@ So treat this format as **one test format among several (1–2 a week), not the 
 | Instagram | Since 31 August 2026, unlabelled profiles featuring AI-generated people lose recommendation reach ([Implicator](https://www.implicator.ai/instagram-will-cut-the-reach-of-ai-personas-that-skip-its-new-label/)). |
 | YouTube | Exempts animation and unrealistic content, but has overlaid AI labels on photorealistic Shorts since May 2026 ([YouTube blog](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)). |
 
-**Running multiple accounts.** TikTok prohibits "multiple accounts secretly coordinating to push similar messages" ([TikTok Newsroom](https://newsroom.tiktok.com/en-eu/how-tiktok-counters-deceptive-behaviour)). The safe version is two or three *openly owned* accounts (founder, brand and one theme page), each posting different content, with bios that say they are made by the app. Never run fake personas posing as unaffiliated users.
+TikTok also prohibits "multiple accounts secretly coordinating to push similar messages" ([TikTok Newsroom](https://newsroom.tiktok.com/en-eu/how-tiktok-counters-deceptive-behaviour)). The safe version of the multi-account tactic is two or three *openly owned* accounts (founder, brand and one theme page), each posting different content, with bios that say they are made by the app. Never run fake personas posing as unaffiliated users.
 
 ### 30/60/90-day plan
 
-**Time budget: about 1 hour a day.** Raise the budget to 1–2 creators a month only when organic posting has found a format.
+Budget about an hour a day, and raise spending to one or two creators a month only once organic posting has found a format.
 
 | Window | Goal | Actions | Track |
 |---|---|---|---|
@@ -764,15 +474,9 @@ So treat this format as **one test format among several (1–2 a week), not the 
 
 ---
 
-## Appendix A — Master build prompt for an Expo/React Native AI app builder (top recommendation)
+## Appendix A: Master build prompt for an Expo/React Native AI app builder (top recommendation)
 
-**How to use it:**
-
-- Replace the bracketed placeholders.
-- Paste the whole prompt once, then ask the builder to complete one phase at a time.
-- Test on a real device between phases to avoid wasting credits.
-
-Nutrition thresholds and scoring rules are deliberately left as placeholders. You must supply them with cited public sources, not let the AI invent them.
+Replace the bracketed placeholders, paste the whole prompt once, and ask the builder to complete one phase at a time, testing on a real device between phases so credits are not wasted on rework. Nutrition thresholds and scoring rules are deliberately left as placeholders: supply them yourself with cited public sources rather than letting the AI invent them.
 
 ```text
 You are building a production-quality mobile app for iOS and Android using Expo (React Native, TypeScript). Every screen must be built with native React Native/Expo components — no WebView-wrapped web pages. Follow this specification exactly, do not add unlisted features, and work in the phases in Section 12. At the start of each phase, list the files you will create or change and wait for my "OK" before writing code. At the end of each phase, give me a short manual test checklist.
@@ -902,11 +606,9 @@ P5 History, compare, Preferences, Settings (incl. data deletion), share card, Po
 P6 Polish: empty/error/offline states, accessibility pass, dark mode, performance, the Section 11 compliance report, and a list of everything I must configure manually in App Store Connect, Google Play Console, RevenueCat, Supabase and PostHog.
 ```
 
-## Appendix B — REA competitor-teardown prompt (lawful, non-invasive analysis only)
+## Appendix B: REA competitor-teardown prompt (lawful, non-invasive analysis only)
 
-**Use this with Claude Code or another MCP-capable agent that has REA installed.** REA's documented setup is `npx rea-agents setup`, or `npm install --global rea-agents` followed by `rea --help`. Android analysis also needs a full JDK 17+, jadx-headless-mcp and Apktool ([REA README](https://github.com/morluto/rea/blob/main/README.md)).
-
-**Unlock Tier 2 only after an IP lawyer has confirmed it.**
+Use this with Claude Code or another MCP-capable agent that has REA installed. REA's documented setup is `npx rea-agents setup`, or `npm install --global rea-agents` followed by `rea --help`, and Android analysis additionally needs a full JDK 17+, jadx-headless-mcp and Apktool ([REA README](https://github.com/morluto/rea/blob/main/README.md)). Unlock Tier 2 only after an IP lawyer has confirmed it.
 
 ```text
 ROLE: You are my competitive-research assistant. You have the REA MCP server available. Your job is lawful, non-invasive analysis of competitor apps in my category to produce FACTS AND NAMES ONLY (not code, not copy, not designs). I will use your findings to write my own product spec in my own words.
@@ -940,7 +642,9 @@ OUTPUT (Markdown, per competitor):
 Never include competitor code, copy, screenshots or assets in the output.
 ```
 
-## Appendix C — Template prompt for a 30–45 second AI-animated story that ends on the app
+## Appendix C: Template prompt for a 30–45 second AI-animated story that ends on the app
+
+Paste this into any capable chat model to produce a full production package, then generate the stills and shots in whichever video tool is current when you read this.
 
 ```text
 You are a short-form video writer and AI-animation director. Create a complete production package for ONE vertical (9:16) AI-animated story, 30–45 seconds long, that hooks viewers with a relatable struggle and ends on my real app.
@@ -981,7 +685,9 @@ DELIVERABLES:
 11. Compliance checklist I must tick before posting: AI label on; no fake testimonials; no unverifiable claims; no third-party IP or brands; #ad and paid-partnership toggle if paid; app UI shown is real and current.
 ```
 
-## Appendix D — Verify before you spend: uncertain or recently changed items
+## Appendix D: Verify before you spend (uncertain or recently changed items)
+
+Several inputs to this plan are unverified, conflicting or changed during 2026; check each before committing money or submitting an app.
 
 | Item | Status in the notes | Why it matters |
 |---|---|---|
